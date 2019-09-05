@@ -45,7 +45,7 @@
   "dependencies": {
     "commander": "latest",
     "type-component": "latest",
-    "equals": "latest"
+    "equals": "1.1.0"
   },
   "bin": {
     "jsedn": "./bin/jsedn"
